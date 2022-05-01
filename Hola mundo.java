@@ -7,7 +7,7 @@ int lC=3;
 //Proceso 
 int v=lA*lB*lC;
 //Datos de Salida
-System.our.println("El volumen es: "+v);
+System.out.println("El volumen es: "+v);
 
 
 }
